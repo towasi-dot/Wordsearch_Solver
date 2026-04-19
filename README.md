@@ -1,5 +1,5 @@
 Word Search Solver
-A Python CLI tool that solves word search puzzles — finds words horizontally and vertically (both directions), highlights matches in uppercase, and reports which words were found. Diagonals are... a work in progress. 🚧
+A Python CLI tool that solves word search puzzles — finds words horizontally and vertically (both directions), highlights matches in uppercase, and reports which words were found. Diagonals are... a work in progress. 
 
 # Features
 
